@@ -2,8 +2,11 @@
 
 IT Support & SOC L1 Analyst · Seeking roles in Australia · Based in Seoul, South Korea · Open to work
 
-![Security+](https://img.shields.io/badge/CompTIA-Security%2B-555555?style=flat-square)
 ![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B%20(in%20progress)-aaaaaa?style=flat-square)
+
+<a href="https://www.credly.com/badges/b46c73f8-0e0e-4b61-b5f8-e58a57d8a977">
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-555555?style=flat-square" />
+</a>
 
 ---
 
