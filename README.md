@@ -4,7 +4,6 @@ IT Support & SOC L1 Analyst · Seeking roles in Australia · Based in Seoul, Sou
 
 ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-555555?style=flat-square)
 ![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B%20(in%20progress)-aaaaaa?style=flat-square)
-![SAL1](https://img.shields.io/badge/TryHackMe-SAL1%20(in%20progress)-aaaaaa?style=flat-square)
 
 ---
 
@@ -23,7 +22,7 @@ real-world troubleshooting outside of a formal role.
 
 | Security Operations | Systems Administration | Networking Fundamentals | Help Desk Support |
 |---|---|---|---|
-| SIEM monitoring (Splunk), alert triage, log analysis, phishing investigation, IOC documentation | Windows Server, Active Directory, Group Policy, user provisioning, account recovery | TCP/IP, DNS, DHCP, VPN, firewall basics, Wireshark | End-user troubleshooting, hardware and OS-level diagnosis, problem documentation |
+| SIEM monitoring (Splunk), alert triage, log analysis, phishing investigation, IOC documentation | Windows Server, Active Directory, Group Policy, user provisioning, account recovery | TCP/IP, DNS, DHCP, VPN, firewall basics, Wire(T)shark | End-user troubleshooting, hardware and OS-level diagnosis, problem documentation |
 
 ---
 
