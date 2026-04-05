@@ -1,101 +1,72 @@
-# Hello, I'm Eric
-<a href="https://linkedin.com">
-  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+# [Your English Name]
+
+IT Support & SOC L1 Analyst · Seeking roles in Australia · Based in Seoul, South Korea · Open to work
+
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B-555555?style=flat-square)
+![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B%20(in%20progress)-aaaaaa?style=flat-square)
+![SAL1](https://img.shields.io/badge/TryHackMe-SAL1%20(in%20progress)-aaaaaa?style=flat-square)
 
 ---
 
-## Brief Introduction
-I am an aspiring cybersecurity professional focused on SOC operations, incident response, and cloud security.
+## Profile
+
+Self-driven cybersecurity professional based in South Korea, actively pursuing
+an IT support or SOC L1 analyst role in Australia. Holds CompTIA Security+ and
+has built practical experience through independent home lab work covering SIEM
+deployment, Active Directory administration, and threat analysis. Comfortable
+working through complex technical problems independently, as demonstrated by
+real-world troubleshooting outside of a formal role.
 
 ---
 
-## Objective
-To secure an entry-level SOC Analyst role where I can apply hands-on skills in log analysis, detection, and incident investigation.
+## Areas of competency
+
+| Security Operations | Systems Administration | Networking Fundamentals | Help Desk Support |
+|---|---|---|---|
+| SIEM monitoring (Splunk), alert triage, log analysis, phishing investigation, IOC documentation | Windows Server, Active Directory, Group Policy, user provisioning, account recovery | TCP/IP, DNS, DHCP, VPN, firewall basics, Wireshark | End-user troubleshooting, hardware and OS-level diagnosis, problem documentation |
+
+---
+
+## Technical skills
+
+`Windows Server` `Active Directory` `Splunk` `Wireshark`
+`Nmap` `VirusTotal` `AbuseIPDB` `PowerShell`
+`Windows Registry / SAM` `VirtualBox`
 
 ---
 
 ## Projects
 
-###   Home SOC Lab
-- Multi-VM environment (AD, Splunk, Kali, Windows)
-- Attack simulation + detection validation
+- **Splunk SIEM detection lab** — Deployed Splunk on a local VM, ingested
+  Windows event logs, and authored detection rules targeting brute-force
+  attempts, privilege escalation, and lateral movement indicators
 
-###   Active Directory Attack Detection
-- PowerShell, RDP, privilege escalation tracking
-- Event ID + Sysmon 기반 분석
+- **Active Directory home lab** — Built a Windows Server domain environment
+  from scratch, configured Group Policy Objects, managed user provisioning,
+  and applied security baseline hardening
 
-###   SOC Automation Project
-- Alert triage workflow 설계
-- 반복 대응 프로세스 구축
+- **Phishing email analysis** — Analysed email headers from real phishing
+  samples, identified spoofed sender domains, and documented indicators of
+  compromise using VirusTotal and AbuseIPDB
 
----
-
-## 🛠 Skills
-
-| Skill | Project |
-|------|--------|
-| SIEM & Log Analysis | SOC Lab |
-| Windows Event Analysis | AD Detection |
-| Threat Detection | SOC Lab |
-| Incident Investigation | AD Detection |
+- **Windows account recovery** — Restored a deleted administrator account on
+  a live Windows system by accessing the SAM database via safe mode boot,
+  without data loss or OS reinstall
 
 ---
 
-## 🧰 Tools
+## Currently developing
 
-### SIEM
-<div>
-<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-<img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-<img src="https://img.shields.io/badge/-Sysmon-444444?&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-Windows_Event_Logs-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
-
-### Network
-<div>
-<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
+- CompTIA CySA+ — threat detection, vulnerability management, and blue team
+  response techniques (in progress)
+- TryHackMe SOC L1 Analyst (SAL1) — structured SOC workflow practice covering
+  log analysis, alert handling, and incident escalation (in progress)
 
 ---
 
-## 📜 Certifications
+## Contact
 
-<a href="https://www.credly.com/badges/b46c73f8-0e0e-4b61-b5f8-e58a57d8a977">
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</a>
-
----
-
-## 🧠 TryHackMe
-
-<a href="https://tryhackme.com/p/EricNam">
-<img src="https://img.shields.io/badge/-Top%203%25%20Global-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
-</a>
-
-### 🏆 Achievements
-- Top 3% Global Ranking
-- Completed SOC Level 1 Path
-- Completed Jr Penetration Tester Path
-- Completed Pre Security Path
-
-### 🧪 Skills Developed
-- Log analysis & SIEM usage  
-- Network traffic analysis  
-- Threat detection & investigation  
-- Windows event analysis (Sysmon, Event Logs)  
-- Hands-on exploitation & enumeration  
-
----
-
-## 💼 Experience
-(간단하게 1~2줄씩만)
-
----
-
-## 🎓 Education
-(맨 마지막, 짧게)
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- Email: you@email.com
+- TryHackMe: [tryhackme.com/p/yourhandle](https://tryhackme.com/p/yourhandle)
+- Location: Seoul, South Korea — seeking relocation to Australia
