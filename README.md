@@ -5,12 +5,11 @@ IT Support & SOC L1 Analyst · Seoul, South Korea · Open to work
 📧 ericnam991020@email.com | 🔗 <a href="https://www.linkedin.com/in/kweon-nam-365b52350/?locale=ko">LinkedIn</a> | 🧠 <a href="https://tryhackme.com/p/EricNam">TryHackMe</a>
 </sub>
 
-![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B%20(in%20progress)-aaaaaa?style=flat-square)
-
 <a href="https://www.credly.com/badges/b46c73f8-0e0e-4b61-b5f8-e58a57d8a977">
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-555555?style=flat-square" />
 </a>
 
+![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B%20(in%20progress)-aaaaaa?style=flat-square)
 ---
 
 ## Profile
