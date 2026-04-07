@@ -11,7 +11,7 @@ IT Support & SOC L1 Analyst · Seoul, South Korea · Open to work · seeking rel
 ## Profile
 
 Self-driven cybersecurity professional based in South Korea, actively pursuing
-an IT support or SOC L1 analyst role in Australia. Holds CompTIA Security+ and
+an IT support / SOC L1 analyst role abroad. Holds CompTIA Security+ and
 has built practical experience through independent home lab work covering SIEM
 deployment, Active Directory administration, and threat analysis. Comfortable
 working through complex technical problems independently, as demonstrated by
@@ -23,33 +23,31 @@ real-world troubleshooting outside of a formal role.
 
 | Security Operations | Systems Administration | Networking Fundamentals | Help Desk Support |
 |---|---|---|---|
-| SIEM monitoring (Splunk), alert triage, log analysis, phishing investigation, IOC documentation | Windows Server, Active Directory, Group Policy, user provisioning, account recovery | TCP/IP, DNS, DHCP, VPN, firewall basics, Wire(T)shark | End-user troubleshooting, hardware and OS-level diagnosis, problem documentation |
+| SIEM monitoring (Splunk), alert triage, log analysis, phishing investigation| Windows Server, Active Directory, Group Policy, user provisioning, account recovery | TCP/IP, DNS, DHCP, VPN, firewall basics, Wire(T)shark | End-user troubleshooting, hardware and OS-level diagnosis, problem documentation |
 
 ---
 
 ## Technical skills
 
-`Windows Server` `Active Directory` `Splunk` `Wireshark`
-`Nmap` `VirusTotal` `AbuseIPDB` `PowerShell`
-`Windows Registry / SAM` `VirtualBox`
+`Active Directory` `Splunk+ELK basic` `Wireshark`
+`OSINT` `CMD` `PowerShell`
+`Windows Registry / SAM` `Virtual Machines`
 
 ---
 
 ## Projects
 
-- **Splunk SIEM detection lab** — Deployed Splunk on a local VM, ingested
-  Windows event logs, and authored detection rules targeting brute-force
-  attempts, privilege escalation, and lateral movement indicators
+- **Splunk SIEM detection lab** — Deployed Splunk/sysmon on a local VM, ingested
+  Windows event logs, and authored detection rules targeting Remote Command Execution(RCE)
 
 - **Active Directory home lab** — Built a Windows Server domain environment
-  from scratch, configured Group Policy Objects, managed user provisioning,
-  and applied security baseline hardening
+  from scratch, configured Group Policy Objects, managed user provisioning
 
 - **Phishing email analysis** — Analysed email headers from real phishing
   samples, identified spoofed sender domains, and documented indicators of
-  compromise using VirusTotal and AbuseIPDB
+  compromise using VirusTotal and AbuseIPDB on THM
 
-- **Windows account recovery** — Restored a deleted administrator account on
+- **Windows account recovery** — Restored a deleted administrator privilege on
   a live Windows system by accessing the SAM database via safe mode boot,
   without data loss or OS reinstall
 
@@ -69,7 +67,6 @@ real-world troubleshooting outside of a formal role.
 
 ## Currently developing
 
+- SOC Automation — building Orchestration using Wazuh/Shuffle (in progress)
 - CompTIA CySA+ — threat detection, vulnerability management, and blue team
   response techniques (in progress)
-- TryHackMe SOC L1 Analyst (SAL1) — structured SOC workflow practice covering
-  log analysis, alert handling, and incident escalation (in progress)
