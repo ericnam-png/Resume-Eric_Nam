@@ -13,7 +13,7 @@ IT Support & SOC L1 Analyst · Seoul, South Korea · Open to work · seeking rel
 Self-driven cybersecurity professional based in South Korea, actively pursuing
 an IT support / SOC L1 analyst role abroad. Holds CompTIA Security+ and
 has built practical experience through independent home lab work covering SIEM
-deployment, Active Directory administration, and threat analysis. Comfortable
+deployment, Active Directory administration, and threat analysis with a focus on log-based detection and incident investigation. Comfortable
 working through complex technical problems independently, as demonstrated by
 real-world troubleshooting outside of a formal role.
 
@@ -23,27 +23,33 @@ real-world troubleshooting outside of a formal role.
 
 | Security Operations | Systems Administration | Networking Fundamentals | Help Desk Support |
 |---|---|---|---|
-| SIEM monitoring (Splunk), alert triage, log analysis, phishing investigation| Windows Server, Active Directory, Group Policy, user provisioning, account recovery | TCP/IP, DNS, DHCP, VPN, firewall basics, Wire(T)shark | End-user troubleshooting, hardware and OS-level diagnosis, problem documentation |
+| SIEM monitoring (Splunk), alert triage, log analysis, phishing investigation| Windows Server, Active Directory, Group Policy, user provisioning, account recovery | TCP/IP, DNS, DHCP, VPN, firewall basics, Wireshark | End-user troubleshooting, hardware and OS-level diagnosis, problem documentation |
 
 ---
 
 ## Technical skills
 
-`Active Directory` `Splunk+ELK basic` `Wireshark`
-`OSINT` `CMD` `PowerShell`
-`Windows Registry / SAM` `Virtual Machines`
+- **SIEM:** Splunk (log ingestion, search, basic detection), ELK (basic)
+- **Endpoint Monitoring:** Sysmon, Windows Event Logs
+- **Networking:** TCP/IP, DNS, HTTP, packet analysis with Wireshark
+- **Systems:** Active Directory, Windows Server, Group Policy
+- **Scripting:** PowerShell, CMD (basic)
+- **Tools:** Kali Linux
+- **Virtualization:** VirtualBox, VMware
 
 ---
 
 ## Projects
 
-- **Splunk SIEM detection lab** — Deployed Splunk/sysmon on a local VM, ingested
-  Windows event logs, and authored detection rules targeting Remote Command Execution(RCE)
+- **Splunk SIEM detection lab** — Deployed Splunk and Sysmon on a local VM, ingested
+  Windows event logs, and detected suspicious process execution using Event ID 1 and 4688,
+  including simulated Remote Command Execution (RCE), and validated detection through log correlation in Splunk
 
 - **Active Directory home lab** — Built a Windows Server domain environment
-  from scratch, configured Group Policy Objects, managed user provisioning
+  from scratch, configured Group Policy Objects, and monitored authentication events
+  (Event ID 4624/4625) for brute-force detection in Splunk
 
-- **Phishing email analysis** — Analysed email headers from real phishing
+- **Phishing email analysis** — Analyzed email headers from real phishing
   samples, identified spoofed sender domains, and documented indicators of
   compromise using VirusTotal and AbuseIPDB on THM
 
