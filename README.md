@@ -11,7 +11,7 @@ IT Support & SOC L1 Analyst · Seoul, South Korea · Open to work · seeking rel
 ## Profile
 
 Self-driven cybersecurity professional based in South Korea, actively pursuing
-an IT support / SOC L1 analyst role. Holds CompTIA Security+ and
+an IT support / SOC L1 analyst role. Holds [CompTIA Security+](https://www.credly.com/badges/b46c73f8-0e0e-4b61-b5f8-e58a57d8a977) and
 has built practical experience through independent home lab work covering SIEM
 deployment, Active Directory administration, and threat analysis with a focus on log-based detection and incident investigation. Comfortable
 working through complex technical problems independently, as demonstrated by
@@ -60,15 +60,15 @@ real-world troubleshooting outside of a formal role.
 ---
 
 
-## TryHackMe
+## [TryHackMe](https://tryhackme.com/p/EricNam)
 
 - **Top 3% Global Ranking** — Ranked within the top 3% of users worldwide based on consistent hands-on activity and performance
 
-- **SOC Level 1 Path** — Completed structured SOC training covering SIEM usage, log analysis, alert triage, and incident response workflows
+- **[SOC Level 1 Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-74RLPF2R9F.pdf)** — Completed structured SOC training covering SIEM usage, log analysis, alert triage, and incident response workflows
 
-- **Jr Penetration Tester Path** — Completed hands-on training in enumeration, exploitation techniques, and offensive security fundamentals
+- **[Jr Penetration Tester Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RXYGGISHW4.pdf)** — Completed hands-on training in enumeration, exploitation techniques, and offensive security fundamentals
 
-- **Pre Security Path** — Built foundational knowledge in networking, Linux, web fundamentals, and core cybersecurity concepts
+- **[Pre Security Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BDC1EP0NBL.pdf)** — Built foundational knowledge in networking, Linux, web fundamentals, and core cybersecurity concepts
 
 ---
 
